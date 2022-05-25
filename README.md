@@ -1,2 +1,2 @@
 # logo-admin
-A self-developed database log data storage and management system to visualize your log data
+A log data storage and visual management system for self-developed database
